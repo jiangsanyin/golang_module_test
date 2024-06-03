@@ -1,0 +1,1 @@
+# golang_module_test
